@@ -1,0 +1,52 @@
+# Diretório node_modules/
+node_modules/
+
+# Logs de depuração
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente
+.env
+.env.test
+.env.production
+.env.development
+
+# Diretório de cache do npm
+.npm
+
+# Diretório de cache do yarn
+.yarn
+.pnp.*
+
+# Diretórios de compilação
+dist/
+build/
+.out/
+.next/
+
+# Arquivos de lock de pacotes
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Diretório de coverage de testes
+coverage/
+
+# Arquivos de saída de testes
+test-output/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Arquivos de Lint
+.eslintcache
+
+# google credentials
+google-drive.json
